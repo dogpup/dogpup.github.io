@@ -1,0 +1,47 @@
+h1,h2,h3,h4{
+  color:pink;
+}
+
+#Introduction {
+  color:purple;
+}
+
+
+#ContactInformation {
+  color:red;
+}
+
+#AboutCozumelMexico {
+  color:blue;
+ }
+ 
+body {
+  padding-left:20px;
+  margin-top:20px;
+  background-color:lavender;
+  font-family:Verdana;
+  
+ }
+ 
+img {
+  float:left;
+  margin-right:20px;
+  border:solid black 3px;
+  padding:2px;
+}
+ 
+strong {
+  text-decoration:underline;
+  }
+  
+#FunThingstodoinCozumelMexico{
+  color:orange;  
+  }
+  
+#Conclusion{
+  color:green;
+}
+
+
+
+
